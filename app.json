@@ -10,7 +10,10 @@
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.nancy977.ostabasha"
+      "bundleIdentifier": "com.nancy977.ostabasha",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
     },
     "android": {
       "adaptiveIcon": {
@@ -36,17 +39,20 @@
             "backgroundColor": "#000000"
           }
         }
-      ]
+      ],
+      "expo-font",
+      "expo-web-browser"
     ],
     "extra": {
+      "router": {},
       "eas": {
-        "projectId": "0fd9f093-d336-479f-95e9-709bb4b9d40c"
-      },
-      "router": {}
+        "projectId": "45da6390-b4bc-4ffd-9f4e-3b78b138c6fe"
+      }
     },
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "owner": "m0hamed-ahmed"
   }
 }
