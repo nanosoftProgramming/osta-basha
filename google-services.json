@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "419423436813",
+    "project_id": "osta-basha",
+    "storage_bucket": "osta-basha.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419423436813:android:db5408abdd9e2b8ee31544",
+        "android_client_info": {
+          "package_name": "com.nancy_ahmed97.ostabasha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxa60NGU3gAnf5PRH_6xz5B5jeFornyik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
