@@ -16,6 +16,12 @@
     }
   },
   "submit": {
-    "production": {}
+    "production": {
+      "ios": {
+        "appleId": "mohamed.ahmed.m98@icloud.com",
+        "ascAppId": "6791679011",
+        "appleTeamId": "MCQD94569S"
+      }
+    }
   }
 }
